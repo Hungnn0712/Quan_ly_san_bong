@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711982130170",
+    "project_id": "sanbong-6cc02",
+    "storage_bucket": "sanbong-6cc02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711982130170:android:b6f804d8e5d53cfde23a43",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSW0hZfc4i0VxLL5nC5hmCUZa8Elwx3QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
